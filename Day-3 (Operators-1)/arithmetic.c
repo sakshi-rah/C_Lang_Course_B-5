@@ -12,22 +12,22 @@
 
 int main()
 {
-    // int a, b;
-    // printf("Enter Value of a and b: ");
-    // scanf("%d%d", &a, &b);
-    // //Addition:
-    // // int sum = a + b; // 5+2
-    // // printf("Addition: %d\n", sum); // Addition: 7
-    // printf("Addition: %d\n", a+b); // Addition: 7
+    int a, b;
+    printf("Enter Value of a and b: ");
+    scanf("%d%d", &a, &b);
+    //Addition:
+    // int sum = a + b; // 5+2
+    // printf("Addition: %d\n", sum); // Addition: 7
+    printf("Addition: %d\n", a+b); // Addition: 7
 
-    // //Substraction:
-    // printf("Substraction: %d\n", a-b); // Substraction: 3
+    //Substraction:
+    printf("Substraction: %d\n", a-b); // Substraction: 3
 
-    // //Multification:
-    // printf("Multification of %d and %d: %d\n", a, b, a*b); // Multification of 5 and 2: 10
+    //Multification:
+    printf("Multification of %d and %d: %d\n", a, b, a*b); // Multification of 5 and 2: 10
 
-    // //Modulus:
-    // printf("Modulus: %d\n", a%b); // Modulus: 1
+    //Modulus:
+    printf("Modulus: %d\n", a%b); // Modulus: 1
 
     //Division:
     int c, d;
