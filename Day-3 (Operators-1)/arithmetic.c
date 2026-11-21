@@ -37,5 +37,14 @@ int main()
     float div = (float)c/d;
     printf("Division: %.2f\n", div); // Division: 2
 
+    //Revision Code(21-11-26)
+    int x = 20, y = 3;
+    printf("Sum of X & Y: %d\n", x+y);
+    printf("Sum of X & Y: %d\n", x-y);
+    printf("Sum of X & Y: %d\n", x*y);
+    printf("Sum of X & Y: %d\n", x%y);
+    float division = (float)x/y;
+    printf("div of x & y: %.2f\n", division);
+
     return 0;
 }
